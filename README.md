@@ -1,9 +1,14 @@
-# :high_brightness: Green-corp landing
-## A promotional landing page for solar panels was implemented upon the client's request.
-## :hammer_and_wrench: Tools:
-### - HTML; 
-### - CSS;
-### - animation;
-### - mobile device adaptation.
+# :high_brightness: Green-Corp Landing Page
 
-### View link: [Green-corp-landing](URL)
+## Overview
+Introducing the Green-Corp landing page, a captivating promotional site for solar panels, crafted to meet our client's vision. Experience the future of renewable energy with a seamless and interactive user interface.
+
+## :hammer_and_wrench: Tools & Technologies
+- **HTML**: The backbone of our content structure.
+- **CSS**: Stylish and responsive design to captivate users.
+- **Animation**: Engaging animations to enhance user experience.
+- **Mobile Adaptation**: Fully optimized for a flawless mobile experience.
+
+### :link: Explore Now: [Green-Corp Landing Page](URL)
+
+Dive into the world of sustainable energy with Green-Corp!
